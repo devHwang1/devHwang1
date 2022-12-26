@@ -2,10 +2,10 @@
 ![github header](https://user-images.githubusercontent.com/115784212/209518088-f4633ba6-b4eb-425f-8e95-b9089baf055d.png)
 
 
-<h3 align="center">👋 It's me! 👋</h3>
+<h3 align="center">👋 안녕하세요! 👋</h3>
 <p align="center">
-  <b>Backend Developer</b> 👩‍💻 <br>
-  <b>I'm growing everyday</b> 🌿
+  <b>매일매일 성장중인</b> 👩‍💻 <br>
+  <b>백엔드 개발자 황재승입니다!</b> 🌿
 </p>
 
 <h3 align="center">📚 Tech Stack 📚</h3>
