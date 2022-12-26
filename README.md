@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=devHwang1%20Github&fontSize=90" />
+<img src="https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=devHwang1%20Github&fontSize=60" />
 
 <!--
 **devHwang1/devHwang1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
