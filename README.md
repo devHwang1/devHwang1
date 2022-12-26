@@ -3,9 +3,8 @@
 <!-- [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fjogilsang&count_bg=%233DDB86&title_bg=%23073642&icon=android.svg&icon_color=%233DDB86&title=hits&edge_flat=false)](https://hits.seeyoufarm.com) -->
 
 ### Welcome My Space!
+안녕하세요! 백엔드 주니어 개발자 황재승입니다.
 
-Hi there, I'm [Gilsang Jo](https://www.linkedin.com/in/gilsang), a Repulic of korea   
-I'm currently working as a Cloud SA(Solutions Architect) in Seoul.
 
 <!-- - 📱  interesting on [Android](https://github.com/jogilsang/manual-android/tree/master/0.Android) -->
 - 🌱 Interesting on [Devops](https://github.com/jogilsang/manual-devops)  
